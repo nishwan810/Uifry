@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+     font-family: ClashBold;
+     src: url(/asset/clash-display/ClashDisplayBold.otf);
+}
+@font-face {
+     font-family: ClashExtralight;
+     src: url(/asset/clash-display/ClashDisplayExtralight.otf);
+}
+@font-face {
+     font-family: Clashlight;
+     src: url(/asset/clash-display/ClashDisplayLight.otf);
+}
+@font-face {
+     font-family: ClashMedium;
+     src: url(/asset/clash-display/ClashDisplayMedium.otf);
+}
+@font-face {
+     font-family: ClashRegular;
+     src: url(/asset/clash-display/ClashDisplayRegular.otf);
+}
+@font-face {
+     font-family: Clashsemibold;
+     src: url(/asset/clash-display/ClashDisplaySemibold.otf);
+}
